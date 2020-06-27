@@ -31,3 +31,8 @@ Para o frontend, foram utilizadas HTML, CSS e Javascript. Possui basicamente 5 t
 ### 2. Backend
 
 Para o backend, foram utilizadas ferramentas como express, nodemon, sqlite3 e nunjucks.
+
+<br>
+<br>
+
+_Caso queira ver a versão full stack, [clique aqui](https://github.com/leonarita/Ecoleta)_
