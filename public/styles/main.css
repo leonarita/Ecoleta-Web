@@ -1,0 +1,40 @@
+:root {
+    --title-color: #322153;
+    --primary-color: #27f584;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Define o padrão da caixa a borda (não o padding) */
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    text-decoration: none;  /* Tira o sublinhado */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--title-color);
+}
+
+/* 
+    BOX MODEL : Modelo de Caixa
+        Toda caixa tem largura, altura, espaçamentos, preenchimentos, bordas, cor, fundo, 
+        posicionamento, alinhamento, display (maneira que é vista pelo html)
+
+    display inline = ocupad linha toda
+    display block = ocupa o bloco
+
+    dois displays inlines ficam na mesma linha
+*/
+
