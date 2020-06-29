@@ -18,7 +18,12 @@ A linguagem de programação utilizada foi o **`Javascript`**.
 Para o frontend, foram utilizadas `HTML`, `CSS` e `Javascript`. 
 <br>
 <br>
-Possui basicamente 5 telas: a tela inicial, a tela de cadastro de pontos de coleta, a tela de sucesso de cadastro, a tela de buscar cidade e a listagem de pontos por cidade.
+Possui basicamente 5 telas: 
+  1. Tela inicial;
+  2. Tela de cadastro de pontos de coleta;
+  3. Tela de sucesso de cadastro;
+  4. Tela de buscar cidade;
+  5. Listagem de pontos por cidade.
 
 <br>
 <img src="/uploads/foto2.png">
