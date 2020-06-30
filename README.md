@@ -7,6 +7,7 @@
 
 Nessa semana, foi desenvolvida uma aplicação web integrando backend e frontend. 
 <br>
+<br>
 A linguagem de programação utilizada foi o **`Javascript`**.
 
 <br>
